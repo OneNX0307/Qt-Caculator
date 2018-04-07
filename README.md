@@ -1,3 +1,3 @@
 # caculator
 demo
-![caculator](http://qiniu-chrome.qiniudn.com/caculator.png)
+![caculator](https://github.com/alfredxinglkey/caculator/raw/master/Screenshots/caculator.png)
